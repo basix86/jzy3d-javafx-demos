@@ -16,7 +16,7 @@ import org.jzy3d.plot3d.builder.Mapper;
 import org.jzy3d.plot3d.primitives.Shape;
 import org.jzy3d.plot3d.rendering.canvas.Quality;
 
-public class App extends Application {
+public class MultipleSurface3dDemo extends Application {
     public static void main(String[] args) {
         Application.launch(args);
     }
